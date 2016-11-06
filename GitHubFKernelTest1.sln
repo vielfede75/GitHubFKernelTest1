@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GitHubFKernelTest1", "GitHubFKernelTest1\GitHubFKernelTest1.shproj", "{A5B09562-7651-437E-A2C6-C3036D00488C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		GitHubFKernelTest1\GitHubFKernelTest1.projitems*{a5b09562-7651-437e-a2c6-c3036d00488c}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
